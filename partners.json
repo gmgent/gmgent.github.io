@@ -1,3 +1,9 @@
 {
-	"partners": ["Stardoll", "Netflix"]
+	"partners": [{
+		"id": "1",
+		"name": "Facebook"
+	}, {
+		"id": "2",
+		"name": "Stardoll"
+	}]
 }
