@@ -1,8 +1,7 @@
 {
-	"partners":{
-		{"name": "Stardoll"},
-		{"name": "Facebook"},
-		{"name": "Netflix"}
+	"partners": {
+		"name": "Stardoll",
+		"name": "Netflix"
 	}
 
 }
