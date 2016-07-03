@@ -1,11 +1,8 @@
 {
-	"partners": [
-		"Skype",
-		"Woozworld",
-		"APAC",
-		"Netflix",
-		"StubHub"
-	]
-	
-}
+	"partners":{
+		{"0": {"name": "Stardoll"}},
+		{"1": {"name": "Facebook"}},
+		{"2": {"name": "Netflix"}}
+	}
 
+}
