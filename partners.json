@@ -1,7 +1,7 @@
 {
-	"partners": {
-		"name": "Stardoll",
+	"partners": [{
+		"name": "Stardoll"
+	}, {
 		"name": "Netflix"
-	}
-
+	}]
 }
