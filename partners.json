@@ -1,5 +1,4 @@
-[
-  {
+{"results":{
     "name": "GalaNet-gPotato"
   },
   {
@@ -7,56 +6,5 @@
   },
   {
     "name": "Artix Ent-Adventure Quest"
-  },
-  {
-    "name": "IAC-Zwinky"
-  },
-  {
-    "name": "Wild Tangent"
-  },
-  {
-    "name": "Cartoon Doll Emporium"
-  },
-  {
-    "name": "WeeWorld"
-  },
-  {
-    "name": "Donnerwood-MEEZ"
-  },
-  {
-    "name": "Facebook"
-  },
-  {
-    "name": "Smart Bomb - Animal Jam"
-  },
-  {
-    "name": "Gazillion - SHSO"
-  },
-  {
-    "name": "Fight My Monsters"
-  },
-  {
-    "name": "Skype"
-  },
-  {
-    "name": "Woozworld"
-  },
-  {
-    "name": "Gazillion - Heroes"
-  },
-  {
-    "name": "APAC"
-  },
-  {
-    "name": "Netflix"
-  },
-  {
-    "name": "StubHub"
-  },
-  {
-    "name": "Xsolla"
-  },
-  {
-    "name": "DisneyLife"
-  }
-]
+  }}
+  
