@@ -1,5 +1,11 @@
 {
-	"partners": "mylist"
+	"partners": [
+		"Skype",
+		"Woozworld",
+		"APAC",
+		"Netflix",
+		"StubHub"
+	]
 	
 }
 
